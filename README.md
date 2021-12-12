@@ -8,7 +8,7 @@ I am a 1st year CSE Student at USICT, Delhi. I am 17 years old. I am a Quick lea
 
 Follow me writing at[]()
 
-##Coding Skills
+## Coding Skills
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="70px"/>
