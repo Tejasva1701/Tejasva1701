@@ -4,7 +4,7 @@ I am **TEJASVA**
 
 ## About Me
 
-I am a 1st year CSE Student at USICT, Delhi. I am 17 years old. I am a Quick learner. I have keen interest in Ethical Hacking and Web development.
+I am a 1st year CSE Student at USICT, Delhi. I am 18 years old. I am a Quick learner. I have keen interest in Ethical Hacking and Web development.
 
 Follow me writing at[]()
 
