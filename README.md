@@ -23,12 +23,12 @@ Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> Linked
 
 ## Other Skills
 
+- ### Graphics Designing
+   <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height="70px">
 - ### Languages
    - Hindi
    - English
    - French
-- ### Graphics Designing
-   - <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height="70px">
    
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasva1701)](https://github.com/anuraghazra/github-readme-stats)
 
