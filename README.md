@@ -12,8 +12,6 @@ or
 <br>
 Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> LinkedIn </a>
 
-<img src="C:\Users\Tejasva\Downloads\TEJASVA (8).png" height="100px"/>
-
 ## Coding Skills
 
 <p>
