@@ -18,7 +18,8 @@ Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> Linked
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="70px"/>
   <img src="https://www.wired.com/images_blogs/business/2011/08/HTML5_Logo_512.png" height="70px">
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="70px">
-  <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/canva-new-logo-square" height="70px">
+  <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height="70px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="70px">
 </p>
 
 ## Other Skills
