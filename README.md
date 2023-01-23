@@ -4,9 +4,8 @@ I am **TEJASVA**
 
 ## About Me
 
-I am a Sophomore CSE Student at USICT, Delhi. I am 18 years old. I am a Quick learner. I have keen interest in Ethical Hacking and Web development. I am proficient in the art of Calligraphy and Graphic Designing. Currently diving deep into Ethical Hacking and learning French Language.
-
-Follow me writing at[]()
+I am a Sophomore Computer Science Student at USICT, Delhi. I am 19 years old. I am a Quick Learner who has keen interest in Ethical Hacking and Web development. I am proficient in the art of Calligraphy and Graphic Designing. Currently diving deep into Ethical Hacking and learning French Language.
+Follow me writing at[](https://www.linkedin.com/in/tejasva-85a36a238/)
 
 ## Coding Skills
 
