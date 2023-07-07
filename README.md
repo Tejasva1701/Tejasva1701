@@ -22,7 +22,6 @@ Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> Linked
 </p>
 
 ## Other Skills
-  <img src="https://tryhackme-badges.s3.amazonaws.com/reulactosh5.png" height="70px">
 
 - ### Graphics Designing
    <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height="70px">
