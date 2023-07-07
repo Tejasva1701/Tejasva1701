@@ -19,6 +19,7 @@ Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> Linked
   <img src="https://www.wired.com/images_blogs/business/2011/08/HTML5_Logo_512.png" height="70px">
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="70px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="70px">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/reulactosh5.png" height="70px">
 </p>
 
 ## Other Skills
