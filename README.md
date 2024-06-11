@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-I am **TEJASVA**
-
 ## About Me
 
 <p> I am a Computer Science student who is versatile, creative and detail-oriented UI/UX Designer, proficient in creating interactive, user-centric and visually appealing designs. I strive to deliver intuitive and seamless user experiences that leave a lasting impact. My expertise are centred around Figma and Canva.
