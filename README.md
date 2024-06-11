@@ -4,9 +4,11 @@ I am **TEJASVA**
 
 ## About Me
 
-<p> I am a Sophomore Computer Science Student at University School of Information, Communication and Technology, Delhi. I am 19 years old. I am a Quick Learner who has keen interest in Ethical Hacking and Web development. I am proficient in the art of Calligraphy and Graphic Designing. Currently diving deep into Ethical Hacking and learning French Language.
+<p> I am a Computer Science student who is versatile, creative and detail-oriented UI/UX Designer, proficient in creating interactive, user-centric and visually appealing designs. I strive to deliver intuitive and seamless user experiences that leave a lasting impact. My expertise are centred around Figma and Canva.
+Along with this, I am skilled and have keen interest in the field of Software Security.
 </p>
-For more information, Drop me a mail at: tejasva0104@gmail.com
+Feel free to reach out to me via email at tejasva0104@gmail.com.
+Let's connect and collaborate on projects that push the boundaries of user interface and experience design!
 <br>
 or
 <br>
