@@ -25,6 +25,7 @@ Connect me on <a href = "https://www.linkedin.com/in/tejasva-85a36a238/"> Linked
 
 - ### Graphics Designing
    <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height="70px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" height="70px">
 - ### Languages
    - Hindi
    - English
